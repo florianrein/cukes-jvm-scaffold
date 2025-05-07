@@ -1,0 +1,3 @@
+Execute with:
+
+mvn test
